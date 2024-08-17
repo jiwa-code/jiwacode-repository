@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="{{ asset("../css/bootstrap.min.css") }}">
-    <link rel="stylesheet" href="{{ asset("css-only/style.css") }}">
+    <link rel="stylesheet" href="{{ asset("../css-only/style.css") }}">
     <link rel="shortcut icon" href="{{ asset("../img/jiwacode.png") }}" >
     <title>Jiwa Code</title>
 
@@ -15,6 +15,16 @@
 </head>
 <body>
     @yield('isi-konten')
+
 </body>
+<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+    <script>
+        var typed = new Typed("#auto-type", {
+            strings: ["Landing Page", "Company Profile", "Web Portofolio", "Web Pendidikan", "Web Personal", "Sistem Informasi"],
+            typeSpeed: 100,
+            backSPeed: 100,
+            loop: true
+        })
+    </script>
 <script src="{{ asset("../js/bootstrap.bundle.min.js") }}"></script>
 </html>
