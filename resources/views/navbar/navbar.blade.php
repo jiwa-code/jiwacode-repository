@@ -12,9 +12,6 @@
         <a class="nav-link fw-bold ms-4" href="#">Portofolio</a>
         <a class="nav-link fw-bold ms-4" href="#">Kontak</a>
       </div>
-      <div class="my-auto form-check form-switch ms-4">
-        <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckChecked" checked>
-      </div>
     </div>
   </div>
 </div>
