@@ -1,4 +1,4 @@
-<div class="navbar navbar-expand-lg" style="background-color: #efeff0">
+<div class="navbar navbar-expand-lg" style="background-color: #f8f8f8">
   <div class="container-fluid col-lg-11 mt-2">
     <img src="{{ asset("img/jiwacode.png") }}" alt="" srcset="" class="navbar-brand" width="100px">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -9,7 +9,7 @@
       </ul>
       <div class="navbar-nav ">
         <a class="nav-link fw-bold ms-4" aria-current="page" href="#">Tentang Kami</a>
-        <a class="nav-link fw-bold ms-4" href="#">Portofolio</a>
+        <a class="nav-link fw-bold ms-4" href="#">Projek Kami</a>
         <a class="nav-link fw-bold ms-4" href="#">Kontak</a>
       </div>
     </div>
