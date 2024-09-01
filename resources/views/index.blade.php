@@ -49,6 +49,125 @@
     </div>
    
 
-    {{-- uji --}}
 
+    <div class="tw-w-full tw-py-9">
+        <div class="tw-w-11/12">
+            <div class="">
+                <p class="tw-text-xl text-center tw-text-[#858585] tw-font-semibold">Keunggulan Yang Dimiliki</p>
+                <p class="tw-text-5xl text-center tw-mt-2 tw-font-semibold"><span class="gradient-font ">Jiwa Code</span></p>
+            </div>
+        </div>
+            <div class="row tw-w-11/12 mx-auto tw-mt-24  tw-bg-white mx-auto tw-rounded-xl tw-shadow-lg">
+                <div class="tw-w-3/12 tw-border">
+                    <div class="tw-w-5/6">
+a
+                    </div>
+                </div>
+                <div class="tw-w-3/12 tw-border">A</div>
+                <div class="tw-w-3/12 tw-border">A</div>
+                <div class="tw-w-3/12 tw-border">A</div>
+            </div>
+        </div>
+{{-- uji --}}
+<div class="tw-w-full tw-py-9  tw-bg-[#F3F3F3] ">
+    <div class="tw-w-11/12">
+        <div class="">
+            <p class="tw-text-xl text-center tw-text-[#858585] tw-font-semibold">Projek Yang Telah Dikerjakan</p>
+            <p class="tw-text-5xl text-center tw-mt-2 tw-font-semibold"><span class="gradient-font ">Jiwa Code</span></p>
+        </div>
+    </div>
+
+<div class="tw-w-full tw-mt-14">
+    <div class="row tw-w-11/12 mx-auto">
+        <div class="tw-w-8/12">
+            <div class=" mx-auto tw-w-6/6 tw-bg-white tw-py-4 tw-rounded-md tw-shadow-lg">
+                <div class="tw-w-9/12 mx-auto tw-py-5">
+                    <img src="{{ asset("img/kalkulator MR.png") }}" class="tw-w-full mx-auto" alt="" srcset="">
+                </div>
+            </div>
+        </div>
+        <div class="tw-w-4/12">
+            <div class="tw-w-10/12 mx-auto">
+                <div class="tw-my-8">
+                    <p class="tw-text-4xl text-start tw-font-semibold">Kalkulator Perhitungan MR Yearbook</p>
+                </div>
+                <div>
+                    <p class="tw-text-xl">Kalkulator Perhitungan MR Yearbook ini adalah sebuah <b> sistem </b>berbasis website yang memudahkan agar tidak perlu melakukan perhitungan secara manual. Hanya perlu menginputkan HPP, sistem akan merinci HPP yang di input dan sistem akan menampilkan <b> Pendapatan Kotor</b> sesuai HPP yang di input kan.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row tw-w-11/12 tw-py-28 mx-auto">
+        <div class="tw-w-4/12">
+            <div class="tw-w-10/12 mx-auto">
+                <div class="tw-my-8">
+                    <p class="tw-text-4xl text-start tw-font-semibold">Landing Page Mecca Studios</p>
+                </div>
+                <div>
+                    <p class="tw-text-xl">Website ini termasuk ke kategori <b> Landing Page</b>. terdiri dari 4 halaman terdiri dari “Beranda” untuk mengenalkan vendor dan juga layanan jasa yang di berikan, juga ada halaman “Meca Team” yaitu anggota tim di vendor tersebut, selanjutnya ada halaman “Our Works” yang isinya layaknya album foto, dan juga halaman “Kontak”.</p>
+                </div>
+            </div>
+        </div>
+        <div class="tw-w-8/12">
+            <div class=" mx-auto tw-w-6/6 tw-bg-white tw-py-4 tw-rounded-md tw-shadow-lg">
+                <div class="tw-w-9/12 mx-auto tw-py-5">
+                    <img src="{{ asset("img/landing page.png") }}" class="tw-w-full mx-auto" alt="" srcset="">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row tw-w-11/12 mx-auto">
+        <div class="tw-w-8/12">
+            <div class=" mx-auto tw-w-6/6 tw-bg-white tw-py-4 tw-rounded-md tw-shadow-lg">
+                <div class="tw-w-9/12 mx-auto tw-py-5">
+                    <img src="{{ asset("img/kalkulator MR.png") }}" class="tw-w-full mx-auto" alt="" srcset="">
+                </div>
+            </div>
+        </div>
+        <div class="tw-w-4/12">
+            <div class="tw-w-10/12 mx-auto">
+                <div class="tw-my-8">
+                    <p class="tw-text-4xl text-start tw-font-semibold">Landing Page MR Yearbook</p>
+                </div>
+                <div>
+                    <p class="tw-text-xl">MR Yearbook adalah vendor yang bergerak di bidang buku tahunan dan juga selebrasi sekolah. Website ini termasuk ke kategori <b> Landing Page </b>. Terdiri dari halaman “tentang kami”, “kenapa harus memilih kami?”, dan “Visi dan Misi” .</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class=" tw-translate-y-14 tw-w-full">
+    <div class="text-center">
+    <button><a href="" id="bg-gradient" class="tw-text-2xl tw-w-5/6 text-white tw-rounded-lg tw-py-2 tw-px-28">Lihat Selengkapnya</a></button>
+</div>
+</div>
+</div>
+
+<div class="tw-w-full tw-py-28">
+    <div class="tw-w-11/12 mx-auto">
+        <div class="">
+            <p class="tw-text-5xl text-center tw-mt-2 tw-font-semibold"><span class="gradient-font ">Jiwa Code</span></p>
+            <p class="tw-text-xl text-center tw-text-[#858585] tw-font-semibold">Menyediakan Berbagai Macam Paket</p>
+        </div>
+        <div class="row tw-mt-11">
+            <div class="tw-w-4/12 border">
+                <div class="mx-auto tw-w-4/6">
+                    <div class="tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg tw-py-4">
+                    <p class="text-center tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
+                    <p class="tw-my-3 text-center tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
+                    <p class="tw-text-4xl tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradoent"> 399 </span></p>
+                </div>
+                </div>
+            </div>
+            <div class="tw-w-4/12 border">
+
+            </div>
+            <div class="tw-w-4/12 border">
+
+            </div>
+        </div>
+    </div>
+</div>
 @endsection
