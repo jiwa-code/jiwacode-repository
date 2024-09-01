@@ -17,13 +17,13 @@
     </div>
 
     <div id="bg-gradient" class="container-fluid">
-        
+
         <div class="row py-5">
             <h1 class="text-light mb-3 py-4 col-lg-11 mx-auto " style="font-size: 50">Tentang Kami</h1>
             <div class="col-lg-6">
 
                 <div class="col-lg-10 mx-auto">
-                
+
                 <P class="text-light fw-light fs-3 lh-base py-5 "> <span class="fw-semibold">Jiwa Code</span> adalah Jasa
                     Pembuatan Website Profesional yang mengedepankan website yang kami bangun bukan hanya sekedar
                     template tetapi tampilannya menarik dengan website yang bisa di akses di berbagai perangkat dengan
@@ -33,7 +33,7 @@
             </div>
 
             <div class="col-lg-6 d-flex align-items-center ">
-                
+
                 <div class="container text-center ">
                     <div class="row g-3 justify-content-center">
                       <div class="col-lg-5 bg-tentang mx-2 rounded-4">
@@ -60,5 +60,7 @@
 
     </div>
     {{-- </div> --}}
+
+    {{-- uji --}}
 
 @endsection
