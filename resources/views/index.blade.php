@@ -164,22 +164,128 @@ a
             <p class="tw-text-xl text-center tw-text-[#858585] tw-font-semibold">Menyediakan Berbagai Macam Paket</p>
         </div>
         <div class="row tw-mt-11">
-            <div class="tw-w-4/12 border">
-                <div class="mx-auto tw-w-4/6">
-                    <div class="tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg tw-py-4">
+            <div class="tw-w-4/12">
+                <div class="mx-auto tw-w-4/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
+                    <div class=" tw-p-4">
                     <p class="text-center tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
                     <p class="tw-my-3 text-center tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
-                    <p class="tw-text-4xl tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradoent"> 399 </span></p>
+                    <p class="tw-text-4xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 399K </span></p>
+                    <p class="tw-my-3 text-center tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Nikmati layanan dengan harga murah beserta fitur yang tersedia</p>
+                </div>
+                    <div class="tw-w-full tw-bg-[#D9D9D9] tw-rounded-b-lg tw-py-5">
+                        <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                        <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                        <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                        <div class="tw-w-full text-center">
+                        <div>
+                        <s class=" tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
+                        </div>
+                        <s class=" tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
+                    </div>
                 </div>
                 </div>
             </div>
-            <div class="tw-w-4/12 border">
 
+
+            <div class="tw-w-4/12 ">
+                <div class="mx-auto tw-w-4/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
+                    <div class=" tw-p-4">
+                    <p class="text-center tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
+                    <p class="tw-my-3 text-center tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
+                    <p class="tw-text-4xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 399K </span></p>
+                    <p class="tw-my-3 text-center tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Nikmati layanan dengan harga murah beserta fitur yang tersedia</p>
+                </div>
+                    <div class="tw-w-full tw-bg-[#D9D9D9] tw-rounded-b-lg tw-py-5">
+                        <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                        <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                        <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                        <div class="tw-w-full text-center">
+                        <div>
+                        <s class=" tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
+                        </div>
+                        <s class=" tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
+                    </div>
+                </div>
+                </div>
             </div>
-            <div class="tw-w-4/12 border">
 
+
+            <div class="tw-w-4/12 ">
+                <div class="mx-auto tw-w-4/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
+                    <div class=" tw-p-4">
+                    <p class="text-center tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
+                    <p class="tw-my-3 text-center tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
+                    <p class="tw-text-4xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 399K </span></p>
+                    <p class="tw-my-3 text-center tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Nikmati layanan dengan harga murah beserta fitur yang tersedia</p>
+                </div>
+                    <div class="tw-w-full tw-bg-[#D9D9D9] tw-rounded-b-lg tw-py-5">
+                        <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                        <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                        <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                        <div class="tw-w-full text-center">
+                        <div>
+                        <s class=" tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
+                        </div>
+                        <s class=" tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
+                    </div>
+                </div>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="tw-w-full tw-mt-12">
+            <div class="tw-w-8/12 mx-auto ">
+                <div class="row">
+                    <div class="tw-w-6/12 mx-auto ">
+                        <div class="mx-auto tw-w-4/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
+                            <div class=" tw-p-4">
+                            <p class="text-center tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
+                            <p class="tw-my-3 text-center tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
+                            <p class="tw-text-4xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 399K </span></p>
+                            <p class="tw-my-3 text-center tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Nikmati layanan dengan harga murah beserta fitur yang tersedia</p>
+                        </div>
+                            <div class="tw-w-full tw-bg-[#D9D9D9] tw-rounded-b-lg tw-py-5">
+                                <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                                <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                                <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                                <div class="tw-w-full text-center">
+                                <div>
+                                <s class=" tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
+                                </div>
+                                <s class=" tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+
+                    <div class="tw-w-6/12 mx-auto">
+                        <div class="mx-auto tw-w-4/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
+                            <div class=" tw-p-4">
+                            <p class="text-center tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
+                            <p class="tw-my-3 text-center tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
+                            <p class="tw-text-4xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 399K </span></p>
+                            <p class="tw-my-3 text-center tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Nikmati layanan dengan harga murah beserta fitur yang tersedia</p>
+                        </div>
+                            <div class="tw-w-full tw-bg-[#D9D9D9] tw-rounded-b-lg tw-py-5">
+                                <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                                <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                                <p class="text-center tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                                <div class="tw-w-full text-center">
+                                <div>
+                                <s class=" tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
+                                </div>
+                                <s class=" tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
+
     </div>
 </div>
 @endsection
