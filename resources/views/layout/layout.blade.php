@@ -15,7 +15,7 @@
 </head>
 <body>
     @yield('isi-konten')
-
+    @include("footer.footer")
 </body>
 <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
     <script>
