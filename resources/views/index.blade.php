@@ -51,23 +51,49 @@
 
 
     <div class="tw-w-full tw-py-9">
-        <div class="tw-w-11/12">
+        <div class="tw-w-12/12">
             <div class="">
-                <p class="tw-text-xl text-center tw-text-[#858585] tw-font-semibold">Keunggulan Yang Dimiliki</p>
-                <p class="tw-text-5xl text-center tw-mt-2 tw-font-semibold"><span class="gradient-font ">Jiwa Code</span></p>
+                <p class="tw-text-xl tw-text-center tw-text-[#858585] tw-font-semibold">Keunggulan Yang Dimiliki</p>
+                <p class="tw-text-5xl tw-text-center tw-mt-2 tw-font-semibold"><span class="gradient-font ">Jiwa Code</span></p>
             </div>
         </div>
-            <div class="row tw-w-11/12 mx-auto tw-mt-24  tw-bg-white mx-auto tw-rounded-xl tw-shadow-lg">
-                <div class="tw-w-3/12 tw-border">
-                    <div class="tw-w-5/6">
-a
-                    </div>
-                </div>
-                <div class="tw-w-3/12 tw-border">A</div>
-                <div class="tw-w-3/12 tw-border">A</div>
-                <div class="tw-w-3/12 tw-border">A</div>
-            </div>
+
+
+        <div class="md:tw-w-11/12 xl:tw-w-10/12 md:tw-flex tw-flex-none tw-mx-auto 2xl:tw-gap-x-28 xl:tw-gap-x-10 lg:tw-gap-x-7 md:tw-gap-x-5 tw-mt-24 ">
+
+          <div class="tw-mx-auto tw-w-9/12 md:tw-w-3/12 tw-shadow-2xl tw-rounded-xl">
+            <img src="{{ asset("img/undraw/bar.svg") }}" width=""  class="tw-mx-auto 2xl:tw-w-48 xl:tw-w-36 lg:tw-w-32 md:tw-w-28 tw-w-48 lg:tw-mb-6 tw-mt-12 tw-pt-8 tw-mb-4">
+            <h3 class="tw-w-10/12 tw-text-center tw-font-semibold tw-text-lg tw-mx-auto 2xl:tw-mb-8 xl:tw-mb-11 lg:tw-mb-10 md:tw-mb-10 tw-mb-8">Kustomisasi Tampilan</h3>
+            <h6 class="tw-w-10/12 tw-text-center tw-font-normal tw-text-md tw-mx-auto tw-mb-16 tw-pb-5">Bebas Kustomisasi Tampilan Website Yang Anda Inginkan</h6>
+          </div>
+
+          <div class="tw-mx-auto tw-w-9/12 md:tw-w-3/12 tw-shadow-2xl tw-rounded-xl">
+            <img src="{{ asset("img/undraw/certificate.svg") }}" width=""  class="tw-mx-auto 2xl:tw-w-28 xl:tw-w-24 lg:tw-w-20 md:tw-w-16 tw-w-28 tw-mt-12 tw-pt-8 tw-mb-4">
+            <h3 class="tw-w-10/12 tw-text-center tw-font-semibold tw-text-lg tw-mx-auto 2xl:tw-mb-8 xl:tw-mb-14 lg:tw-mb-10 md:tw-mb-11 tw-mb-8">Tim Yang Profesional</h3>
+            <h6 class="tw-w-10/12 tw-text-center tw-font-normal tw-text-md tw-mx-auto tw-mb-16 tw-pb-5">Tim Yang Handal Untuk Pembuatan Website Anda</h6>
+          </div>
+
+          <div class="tw-mx-auto tw-w-9/12 md:tw-w-3/12 tw-shadow-2xl tw-rounded-xl">
+            <img src="{{ asset("img/undraw/chatting.svg") }}" width=""  class="tw-mx-auto 2xl:tw-w-40 xl:tw-w-32 lg:tw-w-28 md:tw-w-24 tw-w-40 tw-mt-12 tw-pt-8 tw-mb-4">
+            <h3 class="tw-w-10/12 tw-text-center tw-font-semibold tw-text-lg tw-mx-auto tw-mb-8">Customer Service 24/7</h3>
+            <h6 class="tw-w-10/12 tw-text-center tw-font-normal tw-text-md tw-mx-auto tw-mb-16 tw-pb-5">Customer Service Tersedia 24 Jam Dan Langsung Di Tangani Oleh Tim Support Kami</h6>
+          </div>
+
+          <div class="tw-mx-auto tw-w-9/12 md:tw-w-3/12 tw-shadow-2xl tw-rounded-xl">
+            <img src="{{ asset("img/undraw/discount.svg") }}" width=""  class="tw-mx-auto 2xl:tw-w-56 xl:tw-w-44 lg:tw-w-40 md:tw-w-36 tw-w-56 tw-mt-12 tw-pt-8 tw-mb-4">
+            <h3 class="tw-w-10/12 tw-text-center tw-font-semibold tw-text-lg tw-mx-auto tw-mb-8">Harga Yang Terjangkau</h3>
+            <h6 class="tw-w-10/12 tw-text-center tw-font-normal tw-text-md tw-mx-auto tw-mb-16 tw-pb-5">Biaya Pembuatan Website Tidak Membangkak Untuk Tampilan Yang Menarik</h6>
+          </div>
+
+
         </div>
+      
+        </div>
+
+            
+
+
+
 {{-- uji --}}
 <div class="tw-w-full tw-py-9  tw-bg-[#F3F3F3] ">
     {{-- <div class="tw-w-11/12">
