@@ -22,7 +22,7 @@
 <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
     <script>
         var typed = new Typed("#auto-type", {
-            strings: ["Landing Page", "Company Profile", "Web Portofolio", "Web Pendidikan", "Web Personal", "Sistem Informasi"],
+            strings: ["Landing Page", "Web Portofolio", "Web Pendidikan", "Sistem Informasi"],
             typeSpeed: 90,
             backSPeed: 100,
             loop: true

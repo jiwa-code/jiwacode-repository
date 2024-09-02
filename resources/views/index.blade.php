@@ -182,10 +182,10 @@
         </div>
         </div>
 
-        <div class="tw-w-9/12 xl:tw-w-5/12 tw-pt-2 tw-mx-auto ">
+        <div class="tw-w-9/12 xl:tw-w-5/12 tw-pt-2 tw-mx-auto   ">
             <div class="tw-w-11/12 xl:tw-w-10/12 tw-mx-auto tw-text-black ">
             <h3 class="tw-text-2xl tw-font-medium xl:tw-text-2xl 2xl:tw-text-3xl tw-mt-2 xl:tw-mt-0">Kalkulator Perhitungan MR YearBook</h3>
-            <p class="tw-text-md tw-mt-5 lg:tw-text-lg xl:tw-text-base 2xl:tw-text-lg">Kalkulator Perhitungan MR Yearbook ini adalah sebuah sistem berbasis website yang memudahkan agar tidak perlu melakukan perhitungan secara manual. Hanya perlu menginputkan HPP, sistem akan merinci HPP yang di input dan sistem akan menampilkan Pendapatan Kotor sesuai HPP yang di input kan.</p>
+            <p class="tw-text-md tw-mt-5 lg:tw-text-lg xl:tw-text-base 2xl:tw-text-lg tw-my-auto ">Kalkulator Perhitungan MR Yearbook ini adalah sebuah sistem berbasis website yang memudahkan agar tidak perlu melakukan perhitungan secara manual. Hanya perlu menginputkan HPP, sistem akan merinci HPP yang di input dan sistem akan menampilkan Pendapatan Kotor sesuai HPP yang di input kan.</p>
         </div>
         </div>
     </div>
@@ -247,13 +247,13 @@
             <p class="md:tw-text-5xl tw-text-3xl text-center tw-mt-2 tw-font-semibold"><span class="gradient-font ">Jiwa Code</span></p>
             <p class="md:tw-text-xl tw-text-md text-center tw-text-[#858585] tw-font-semibold">Menyediakan Berbagai Macam Paket</p>
         </div>
-        <div class="row tw-mt-11">
-            <div class="tw-w-4/12">
-                <div class="mx-auto md:tw-w-11/12 2xl:tw-w-10/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
+        <div class=" tw-grid tw-grid-cols-1 tw-grid-rows-1 sm:tw-gap-x-9 md:tw-gap-0 tw-mt-12 tw-mx-auto  ">
+            <div class="lg:tw-w-12/12 md:tw-w-11/12 sm:tw-col-start-2 tw-col-start-1 tw-row-start-1">
+                <div class="mx-auto tw-mb-8 tw-w-10/12 sm:tw-w-11/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6  tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
                     <div class=" tw-p-4 2xl:tw-p-6">
-                    <p class="text-center tw-text-xl 2xl:tw-text-4xl  md:tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
-                    <p class="tw-my-3 text-center tw-text-sm 2xl:tw-text-xl tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
-                    <p class="md:tw-text-4xl tw-text-2xl 2xl:tw-text-6xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 399K </span></p>
+                    <p class="text-center tw-text-2xl 2xl:tw-text-3xl lg:tw-text-2xl xl:tw-text-2xl md:tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
+                    <p class="tw-my-3 text-center tw-text-lg 2xl:tw-text-xl md:tw-text-xl xl:tw-text-lg tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
+                    <p class="md:tw-text-4xl tw-text-4xl 2xl:tw-text-5xl xl:tw-text-3xl lg:tw-text-4xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 799K </span></p>
                     <p class="tw-my-3 text-center 2xl:tw-text-lg  tw-h-0 md:tw-h-20 tw-invisible md:tw-visible md:tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Nikmati layanan dengan harga murah beserta fitur yang tersedia</p>
                 </div>
                     <div class="tw-w-full tw-bg-[#D9D9D9] tw-rounded-b-lg tw-py-5">
@@ -271,12 +271,12 @@
             </div>
 
 
-            <div class="tw-w-4/12 ">
-                <div class="mx-auto md:tw-w-11/12 2xl:tw-w-10/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
+            <div class="lg:tw-w-12/12 md:tw-w-11/12 sm:tw-col-start-3 sm:tw-row-start-1 tw-col-start-1 tw-row-start-2">
+                <div class="mx-auto tw-mb-8 tw-w-10/12 sm:tw-w-11/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
                     <div class=" tw-p-4 2xl:tw-p-6">
-                    <p class="text-center tw-text-xl 2xl:tw-text-4xl  md:tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
-                    <p class="tw-my-3 text-center tw-text-sm 2xl:tw-text-xl tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
-                    <p class="md:tw-text-4xl tw-text-2xl 2xl:tw-text-6xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 399K </span></p>
+                    <p class="text-center tw-text-2xl 2xl:tw-text-3xl lg:tw-text-2xl xl:tw-text-2xl md:tw-text-2xl  tw-font-semibold tw-text-[#595959]">Web Portofolio</p>
+                    <p class="tw-my-3 text-center tw-text-lg 2xl:tw-text-xl md:tw-text-xl xl:tw-text-lg tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
+                    <p class="md:tw-text-4xl tw-text-4xl 2xl:tw-text-5xl xl:tw-text-3xl lg:tw-text-4xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 599K </span></p>
                     <p class="tw-my-3 text-center 2xl:tw-text-lg  tw-h-0 md:tw-h-20 tw-invisible md:tw-visible md:tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Nikmati layanan dengan harga murah beserta fitur yang tersedia</p>
                 </div>
                     <div class="tw-w-full tw-bg-[#D9D9D9] tw-rounded-b-lg tw-py-5">
@@ -294,12 +294,34 @@
             </div>
 
 
-            <div class="tw-w-4/12 ">
-                <div class="mx-auto md:tw-w-11/12 2xl:tw-w-10/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
+            <div class="lg:tw-w-12/12 md:tw-w-11/12 xl:tw-col-start-4 xl:tw-row-start-1 sm:tw-col-start-2 sm:tw-row-start-2 tw-col-start-1 tw-row-start-3 ">
+                <div class="mx-auto tw-mb-8 tw-w-10/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg sm:tw-mt-8 xl:tw-mt-0">
                     <div class=" tw-p-4 2xl:tw-p-6">
-                    <p class="text-center tw-text-xl 2xl:tw-text-4xl  md:tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
-                    <p class="tw-my-3 text-center tw-text-sm 2xl:tw-text-xl tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
-                    <p class="md:tw-text-4xl tw-text-2xl 2xl:tw-text-6xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 399K </span></p>
+                    <p class="text-center tw-text-2xl 2xl:tw-text-3xl lg:tw-text-2xl xl:tw-text-2xl md:tw-text-2xl tw-font-semibold tw-text-[#595959]">Web Pendidikan</p>
+                    <p class="tw-my-3 text-center tw-text-lg 2xl:tw-text-xl md:tw-text-xl xl:tw-text-lg tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
+                    <p class="md:tw-text-4xl tw-text-4xl 2xl:tw-text-5xl xl:tw-text-3xl lg:tw-text-4xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 1.200K </span></p>
+                    <p class="tw-my-3 text-center 2xl:tw-text-lg  tw-h-0 md:tw-h-20 tw-invisible md:tw-visible md:tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Nikmati layanan dengan harga murah beserta fitur yang tersedia</p>
+                </div>
+                    <div class="tw-w-full tw-bg-[#D9D9D9] tw-rounded-b-lg tw-py-5">
+                        <p class="text-center 2xl:tw-text-4xl tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                        <p class="text-center 2xl:tw-text-4xl tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                        <p class="text-center 2xl:tw-text-4xl tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
+                        <div class="tw-w-full text-center">
+                        <div>
+                        <s class=" tw-text-xl 2xl:tw-text-4xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
+                        </div>
+                        <s class=" tw-text-xl 2xl:tw-text-4xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
+                    </div>
+                </div>
+                </div>
+            </div>
+            
+            <div class="lg:tw-w-12/12 md:tw-w-11/12 xl:tw-col-start-5 xl:tw-row-start-1 sm:tw-col-start-3 sm:tw-row-start-2 tw-col-start-1 tw-row-start-4">
+                <div class="mx-auto tw-mb-8 tw-w-10/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg sm:tw-mt-8 xl:tw-mt-0">
+                    <div class=" tw-p-4 2xl:tw-p-6 ">
+                    <p class="text-center tw-text-2xl 2xl:tw-text-3xl lg:tw-text-2xl xl:tw-text-2xl md:tw-text-2xl tw-font-semibold tw-text-[#595959]">Sistem Informasi</p>
+                    <p class="tw-my-3 text-center tw-text-lg 2xl:tw-text-xl md:tw-text-xl xl:tw-text-lg tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
+                    <p class="md:tw-text-4xl tw-text-4xl 2xl:tw-text-5xl xl:tw-text-3xl lg:tw-text-4xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 1.500K </span></p>
                     <p class="tw-my-3 text-center 2xl:tw-text-lg  tw-h-0 md:tw-h-20 tw-invisible md:tw-visible md:tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Nikmati layanan dengan harga murah beserta fitur yang tersedia</p>
                 </div>
                     <div class="tw-w-full tw-bg-[#D9D9D9] tw-rounded-b-lg tw-py-5">
@@ -316,59 +338,10 @@
                 </div>
             </div>
 
+            
 
         </div>
 
-        <div class="tw-w-full tw-mt-12">
-            <div class="tw-w-8/12 mx-auto ">
-                <div class="row">
-                    <div class="tw-w-6/12 mx-auto ">
-                        <div class="mx-auto md:tw-w-11/12 2xl:tw-w-10/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
-                            <div class=" tw-p-4 2xl:tw-p-6">
-                            <p class="text-center tw-text-xl 2xl:tw-text-4xl  md:tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
-                            <p class="tw-my-3 text-center tw-text-sm 2xl:tw-text-xl tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
-                            <p class="md:tw-text-4xl tw-text-2xl 2xl:tw-text-6xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 399K </span></p>
-                            <p class="tw-my-3 text-center 2xl:tw-text-lg  tw-h-0 md:tw-h-20 tw-invisible md:tw-visible md:tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Nikmati layanan dengan harga murah beserta fitur yang tersedia</p>
-                        </div>
-                            <div class="tw-w-full tw-bg-[#D9D9D9] tw-rounded-b-lg tw-py-5">
-                                <p class="text-center 2xl:tw-text-4xl tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
-                                <p class="text-center 2xl:tw-text-4xl tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
-                                <p class="text-center 2xl:tw-text-4xl tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
-                                <div class="tw-w-full text-center">
-                                <div>
-                                <s class=" tw-text-xl 2xl:tw-text-4xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
-                                </div>
-                                <s class=" tw-text-xl 2xl:tw-text-4xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
-                            </div>
-                        </div>
-                        </div>
-                    </div>
-
-
-                    <div class="tw-w-6/12 mx-auto">
-                        <div class="mx-auto md:tw-w-11/12 2xl:tw-w-10/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
-                            <div class=" tw-p-4 2xl:tw-p-6">
-                            <p class="text-center tw-text-xl 2xl:tw-text-4xl  md:tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
-                            <p class="tw-my-3 text-center tw-text-sm 2xl:tw-text-xl tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
-                            <p class="md:tw-text-4xl tw-text-2xl 2xl:tw-text-6xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 399K </span></p>
-                            <p class="tw-my-3 text-center 2xl:tw-text-lg  tw-h-0 md:tw-h-20 tw-invisible md:tw-visible md:tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Nikmati layanan dengan harga murah beserta fitur yang tersedia</p>
-                        </div>
-                            <div class="tw-w-full tw-bg-[#D9D9D9] tw-rounded-b-lg tw-py-5">
-                                <p class="text-center 2xl:tw-text-4xl tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
-                                <p class="text-center 2xl:tw-text-4xl tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
-                                <p class="text-center 2xl:tw-text-4xl tw-text-xl tw-font-semibold tw-text-[#12303F]">Lorem</p>
-                                <div class="tw-w-full text-center">
-                                <div>
-                                <s class=" tw-text-xl 2xl:tw-text-4xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
-                                </div>
-                                <s class=" tw-text-xl 2xl:tw-text-4xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
-                            </div>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
 
     </div>
 </div>
