@@ -87,10 +87,10 @@
 
 
         </div>
-      
+
         </div>
 
-            
+
 
 
 
@@ -266,6 +266,9 @@
                         </div>
                         <s class=" tw-text-xl 2xl:tw-text-4xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
                     </div>
+                    <div class="tw-transition tw-ease-in-out tw-delay-400 hover:-tw-translate-y-1 hover:tw-scale-110 tw-duration-300 tw-mx-auto tw-mt-5 tw-rounded-lg 2xl:tw-w-4/6 2xl:tw-py-3 xl:tw-w-5/6 xl:tw-py-3 lg:tw-w-5/6 lg:tw-py-3 md:tw-w-5/6 md:tw-py-3 tw-w-6/12 tw-p-2 hover:tw-ease-out" id="bg-gradient">
+                        <p class=" text-center tw-text-white tw-font-semibold 2xl:tw-text-xl tw-text-sm ">Selengkapnya</p>
+                </div>
                 </div>
                 </div>
             </div>
@@ -289,6 +292,9 @@
                         </div>
                         <s class=" tw-text-xl 2xl:tw-text-4xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
                     </div>
+                    <div class="tw-transition tw-ease-in-out tw-delay-400 hover:-tw-translate-y-1 hover:tw-scale-110 tw-duration-300 tw-mx-auto tw-mt-5 tw-rounded-lg 2xl:tw-w-4/6 2xl:tw-py-3 xl:tw-w-5/6 xl:tw-py-3 lg:tw-w-5/6 lg:tw-py-3 md:tw-w-5/6 md:tw-py-3 tw-w-6/12 tw-p-2 hover:tw-ease-out" id="bg-gradient">
+                        <p class=" text-center tw-text-white tw-font-semibold 2xl:tw-text-xl tw-text-sm ">Selengkapnya</p>
+                </div>
                 </div>
                 </div>
             </div>
@@ -312,14 +318,17 @@
                         </div>
                         <s class=" tw-text-xl 2xl:tw-text-4xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
                     </div>
+                    <div class="tw-transition tw-ease-in-out tw-delay-400 hover:-tw-translate-y-1 hover:tw-scale-110 tw-duration-300 tw-mx-auto tw-mt-5 tw-rounded-lg 2xl:tw-w-4/6 2xl:tw-py-3 xl:tw-w-5/6 xl:tw-py-3 lg:tw-w-5/6 lg:tw-py-3 md:tw-w-5/6 md:tw-py-3 tw-w-6/12 tw-p-2 hover:tw-ease-out" id="bg-gradient">
+                        <p class=" text-center tw-text-white tw-font-semibold 2xl:tw-text-xl tw-text-sm ">Selengkapnya</p>
+                </div>
                 </div>
                 </div>
             </div>
-            
+
             <div class="lg:tw-w-12/12 md:tw-w-11/12 xl:tw-col-start-5 xl:tw-row-start-1 sm:tw-col-start-3 sm:tw-row-start-2 tw-col-start-1 tw-row-start-4">
                 <div class="mx-auto tw-mb-8 tw-w-9/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg sm:tw-mt-8 xl:tw-mt-0">
                     <div class=" tw-p-4 2xl:tw-p-6 ">
-                    <p class="text-center tw-text-2xl 2xl:tw-text-3xl lg:tw-text-2xl xl:tw-text-2xl md:tw-text-2xl tw-font-semibold tw-text-[#595959]">Sistem Informasi</p>
+                    <p class="text-center tw-text-2xl 2xl:tw-text-3xl lg:tw-text-2xl xl:tw-text-2xl md:tw-text-xl tw-font-semibold tw-text-[#595959]">Sistem Informasi</p>
                     <p class="tw-my-3 text-center tw-text-lg 2xl:tw-text-xl md:tw-text-xl xl:tw-text-lg tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
                     <p class="md:tw-text-4xl tw-text-4xl 2xl:tw-text-5xl xl:tw-text-3xl lg:tw-text-4xl tw-my-6 tw-text-[#595959] text-center tw-font-semibold">Rp.<span class="gradient-font"> 1.500K </span></p>
                     <p class="tw-my-3 text-center 2xl:tw-text-lg  tw-h-0 md:tw-h-20 tw-invisible md:tw-visible md:tw-text-sm tw-font-semibold tw-text-[#A7A7A7]">Nikmati layanan dengan harga murah beserta fitur yang tersedia</p>
@@ -334,11 +343,14 @@
                         </div>
                         <s class=" tw-text-xl 2xl:tw-text-4xl tw-font-semibold tw-text-[#12303F]">Lorem</s>
                     </div>
+                    <div class="tw-transition tw-ease-in-out tw-delay-400 hover:-tw-translate-y-1 hover:tw-scale-110 tw-duration-300 tw-mx-auto tw-mt-5 tw-rounded-lg 2xl:tw-w-4/6 2xl:tw-py-3 xl:tw-w-5/6 xl:tw-py-3 lg:tw-w-5/6 lg:tw-py-3 md:tw-w-5/6 md:tw-py-3 tw-w-6/12 tw-p-2 hover:tw-ease-out" id="bg-gradient">
+                        <p class=" text-center tw-text-white tw-font-semibold 2xl:tw-text-xl tw-text-sm ">Selengkapnya</p>
+                </div>
                 </div>
                 </div>
             </div>
 
-            
+
 
         </div>
 
