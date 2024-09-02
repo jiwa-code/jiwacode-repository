@@ -87,9 +87,9 @@
             <p>
               <a href="#!" class="text-reset">Portofolio</a>
             </p>
-            <p>
+            {{-- <p>
                 <a href="#!" class="text-reset">Company Profile</a>
-              </p>
+              </p> --}}
             <p>
               <a href="#!" class="text-reset">Web Pendidikan</a>
             </p>
@@ -141,7 +141,6 @@
 
     <!-- Copyright -->
     <div class="text-center tw-font-medium tw-text-sm p-1 tw-bg-[#F8F8F8]">
-      © 2021 Copyright:
       <a class=" " href="">© Copyright JiwaCode - Jasa pembuatan web</a>
     </div>
     <!-- Copyright -->
