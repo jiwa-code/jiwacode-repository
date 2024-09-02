@@ -249,7 +249,7 @@
         </div>
         <div class=" tw-grid tw-grid-cols-1 tw-grid-rows-1 sm:tw-gap-x-9 md:tw-gap-0 tw-mt-12 tw-mx-auto  ">
             <div class="lg:tw-w-12/12 md:tw-w-11/12 sm:tw-col-start-2 tw-col-start-1 tw-row-start-1">
-                <div class="mx-auto tw-mb-8 tw-w-10/12 sm:tw-w-11/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6  tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
+                <div class="mx-auto tw-mb-8 tw-w-9/12 sm:tw-w-11/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6  tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
                     <div class=" tw-p-4 2xl:tw-p-6">
                     <p class="text-center tw-text-2xl 2xl:tw-text-3xl lg:tw-text-2xl xl:tw-text-2xl md:tw-text-2xl tw-font-semibold tw-text-[#595959]">Landing Page</p>
                     <p class="tw-my-3 text-center tw-text-lg 2xl:tw-text-xl md:tw-text-xl xl:tw-text-lg tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
@@ -272,7 +272,7 @@
 
 
             <div class="lg:tw-w-12/12 md:tw-w-11/12 sm:tw-col-start-3 sm:tw-row-start-1 tw-col-start-1 tw-row-start-2">
-                <div class="mx-auto tw-mb-8 tw-w-10/12 sm:tw-w-11/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
+                <div class="mx-auto tw-mb-8 tw-w-9/12 sm:tw-w-11/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg">
                     <div class=" tw-p-4 2xl:tw-p-6">
                     <p class="text-center tw-text-2xl 2xl:tw-text-3xl lg:tw-text-2xl xl:tw-text-2xl md:tw-text-2xl  tw-font-semibold tw-text-[#595959]">Web Portofolio</p>
                     <p class="tw-my-3 text-center tw-text-lg 2xl:tw-text-xl md:tw-text-xl xl:tw-text-lg tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
@@ -295,7 +295,7 @@
 
 
             <div class="lg:tw-w-12/12 md:tw-w-11/12 xl:tw-col-start-4 xl:tw-row-start-1 sm:tw-col-start-2 sm:tw-row-start-2 tw-col-start-1 tw-row-start-3 ">
-                <div class="mx-auto tw-mb-8 tw-w-10/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg sm:tw-mt-8 xl:tw-mt-0">
+                <div class="mx-auto tw-mb-8 tw-w-9/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg sm:tw-mt-8 xl:tw-mt-0">
                     <div class=" tw-p-4 2xl:tw-p-6">
                     <p class="text-center tw-text-2xl 2xl:tw-text-3xl lg:tw-text-2xl xl:tw-text-2xl md:tw-text-2xl tw-font-semibold tw-text-[#595959]">Web Pendidikan</p>
                     <p class="tw-my-3 text-center tw-text-lg 2xl:tw-text-xl md:tw-text-xl xl:tw-text-lg tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
@@ -317,7 +317,7 @@
             </div>
             
             <div class="lg:tw-w-12/12 md:tw-w-11/12 xl:tw-col-start-5 xl:tw-row-start-1 sm:tw-col-start-3 sm:tw-row-start-2 tw-col-start-1 tw-row-start-4">
-                <div class="mx-auto tw-mb-8 tw-w-10/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg sm:tw-mt-8 xl:tw-mt-0">
+                <div class="mx-auto tw-mb-8 tw-w-9/12 md:tw-w-9/12 2xl:tw-w-10/12 xl:tw-w-11/12 lg:tw-w-6/6 tw-bg-[#F2F2F2] tw-rounded-lg tw-shadow-lg sm:tw-mt-8 xl:tw-mt-0">
                     <div class=" tw-p-4 2xl:tw-p-6 ">
                     <p class="text-center tw-text-2xl 2xl:tw-text-3xl lg:tw-text-2xl xl:tw-text-2xl md:tw-text-2xl tw-font-semibold tw-text-[#595959]">Sistem Informasi</p>
                     <p class="tw-my-3 text-center tw-text-lg 2xl:tw-text-xl md:tw-text-xl xl:tw-text-lg tw-font-semibold tw-text-[#A7A7A7]">Mulai dari</p>
