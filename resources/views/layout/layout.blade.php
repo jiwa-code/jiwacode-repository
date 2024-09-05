@@ -18,6 +18,18 @@
 </head>
 <body>
     @yield('isi-konten')
+
+
+    <button onclick="buttonHandler()" title="Contact "
+        class="tw-fixed tw-z-90 tw-bottom-10 tw-right-8  tw-bg-[#5FFC7B] tw-w-16 tw-h-16 tw-rounded-full tw-drop-shadow-lg tw-flex tw-justify-center tw-items-center tw-text-white tw-text-4xl hover:tw-bg-[#128c7e] hover:tw-drop-shadow-2xl hover:tw-animate-bounce tw-duration-300"><i class="bi bi-whatsapp"></i></button>
+
+    <!-- Javascript code -->
+    <script>
+        // Do something when the button is clicked
+        function buttonHandler() {
+            window.location.href = 'https://wa.me/628158999271';
+        }
+    </script>
     @include("footer.footer")
 </body>
 <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>

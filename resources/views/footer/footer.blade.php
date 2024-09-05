@@ -34,7 +34,7 @@
 </div> --}}
 
 
-<footer class="tw-py-12 tw-bg-gray-[#203C7F] xl:tw-pt-24 dark:tw-bg-[#10224D]">
+<footer class="tw-py-12 tw-bg-gray-[#203C7F] xl:tw-pt-24 dark:tw-bg-[#10224D]" id="footer">
     <div class="tw-w-full tw-px-4 tw-mx-auto tw-max-w-8xl">
         <div class="tw-grid tw-gap-12 xl:tw-grid-cols-6 xl:tw-gap-24">
             <div class="tw-col-span-2">

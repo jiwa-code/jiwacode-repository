@@ -41,7 +41,7 @@
         <div class="tw-w-9/12 tw-mx-auto tw-flex tw-flex-col tw-items-center md:tw-items-start">
         <h2 class="tw-text-white tw-mt-5 tw-text-2xl sm:tw-text-4xl sm:tw-mt-8 2xl:tw-text-5xl xl:tw-text-4xl lg:tw-text-3xl md:tw-text-2xl tw-font-medium ">Mari Wujudkan Sistem Keinginan Anda</h2>
         <h5 class="tw-text-slate-400 tw-mt-3 tw-mb-10 tw-text-xl sm:tw-text-2xl sm:tw-mt-2 sm:tw-mb-10 2xl:tw-text-3xl xl:tw-text-2xl lg:tw-text-xl md:tw-text-md 2xl:tw-mt-4 xl:tw-mt-2 md:tw-mt-1 2xl:tw-mb-10 xl:tw-mb-7 lg:tw-mb-6 md:tw-mb-4 tw-font-normal ">Mulai bangun website keinginan anda bersama kita.</h5>
-        <a href="https://hackprank.com/" class="tw-bg-slate-50 hover:tw-bg-slate-200 tw-px-8 tw-py-3 sm:tw-px-32 tw-font-medium sm:tw-py-4 2xl:tw-px-52 xl:tw-px-40 lg:tw-px-28 md:tw-px-16 2xl:tw-py-5 xl:tw-py-4 lg:tw-py-3 md:tw-py-2 tw-rounded-xl 2xl:tw-text-xl xl:tw-font-medium tw-inline-block">Mulai Perjalanan</a>
+        <a href="#list_harga" class="tw-bg-slate-50 hover:tw-bg-slate-200 tw-px-8 tw-py-3 sm:tw-px-32 tw-font-medium sm:tw-py-4 2xl:tw-px-52 xl:tw-px-40 lg:tw-px-28 md:tw-px-16 2xl:tw-py-5 xl:tw-py-4 lg:tw-py-3 md:tw-py-2 tw-rounded-xl 2xl:tw-text-xl xl:tw-font-medium tw-inline-block">Mulai Perjalanan</a>
         </div>
 
       </div>
@@ -166,7 +166,7 @@
 </div> --}}
 <div class="tw-w-11/12 mx-auto">
     <div class="">
-        <p class="md:tw-text-xl tw-text-md text-center tw-text-[#858585] tw-font-semibold">Projek Yang Telah Dikerjakan</p>
+        <p class="md:tw-text-xl tw-text-md text-center tw-text-[#858585] tw-font-semibold" id="projek">Projek Yang Telah Dikerjakan</p>
         <p class="md:tw-text-5xl tw-text-3xl text-center tw-mt-2 tw-font-semibold"><span class="gradient-font ">Jiwa Code</span></p>
     </div>
 </div>
@@ -241,7 +241,7 @@
 </div>
 </div>
 
-<div class="tw-w-full tw-py-20 md:tw-pt-11 md:tw-pb-20">
+<div class="tw-w-full tw-py-20 md:tw-pt-11 md:tw-pb-20" id="list_harga">
     <div class="tw-w-11/12 mx-auto">
         <div class="">
             <p class="md:tw-text-5xl tw-text-3xl text-center tw-mt-2 tw-font-semibold"><span class="gradient-font ">Jiwa Code</span></p>

@@ -8,9 +8,9 @@
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
       </ul>
       <div class="navbar-nav ">
-        <a class="nav-link fw-bold ms-4" aria-current="page" href="#">Tentang Kami</a>
-        <a class="nav-link fw-bold ms-4" href="#">Projek Kami</a>
-        <a class="nav-link fw-bold ms-4" href="#">Kontak</a>
+        <a class="nav-link fw-bold ms-4" aria-current="page" href="/Tentang">Tentang Kami</a>
+        <a class="nav-link fw-bold ms-4" href="#projek">Projek Kami</a>
+        <a class="nav-link fw-bold ms-4" href="#footer">Kontak</a>
       </div>
     </div>
   </div>
