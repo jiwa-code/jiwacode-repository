@@ -241,7 +241,7 @@
 </div>
 </div>
 
-<div class="tw-w-full tw-py-20 md:tw-py-28">
+<div class="tw-w-full tw-py-20 md:tw-pt-11 md:tw-pb-20">
     <div class="tw-w-11/12 mx-auto">
         <div class="">
             <p class="md:tw-text-5xl tw-text-3xl text-center tw-mt-2 tw-font-semibold"><span class="gradient-font ">Jiwa Code</span></p>
