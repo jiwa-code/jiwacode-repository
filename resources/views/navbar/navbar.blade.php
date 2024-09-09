@@ -10,6 +10,7 @@
       <div class="navbar-nav ">
         <a class="nav-link fw-bold ms-4" aria-current="page" href="/Tentang">Tentang Kami</a>
         <a class="nav-link fw-bold ms-4" href="#projek">Projek Kami</a>
+        <a class="nav-link fw-bold ms-4" href="/list-Harga">Paket</a>
         <a class="nav-link fw-bold ms-4" href="#footer">Kontak</a>
       </div>
     </div>
