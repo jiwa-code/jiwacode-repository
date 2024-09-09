@@ -18,21 +18,21 @@
 <div class="tw-w-full tw-my-16">
     <div class="tw-w-10/12 tw-mx-auto tw-flex tw-py-12" id="bg-gradient">
 
-        <div class="tw-flex-none sm:tw-flex-initial tw-w-0 md:tw-w-6/12 tw-mx-auto">
-            <img src="{{ asset("img/about2.svg") }}"  class="tw-w-0 md:tw-visible 2xl:tw-w-12/12 xl:tw-w-10/12 lg:tw-w-10/12 md:tw-w-10/12 tw-mx-auto" >
+        <div class="tw-flex-none sm:tw-flex-initial tw-w-0 xl:tw-w-6/12 lg:tw-w-7/12 tw-mx-auto tw-my-auto">
+            <img src="{{ asset("img/about2.svg") }}"  class="tw-w-0 md:tw-visible xl:tw-w-12/12 lg:tw-w-10/12 md:tw-w-10/12 tw-mx-auto" >
       </div>
       
       <div class="tw-flex-none sm:tw-flex-initial tw-w-0 md:tw-w-6/12 tw-my-auto">
             <div class="tw-w-11/12  ">
-                <h2 class="tw-text-white tw-font-light tw-text-2xl">Apa itu Jiwa Code</h2>
-                <h1 class="tw-text-white tw-font-medium tw-text-4xl tw-mt-1">A Website Development Service</h1>
-                <p class="tw-text-white tw-font-light tw-text-xl tw-mt-6 tw-mb-8 tw-leading-normal"> Atau biasa disebut <span class="tw-font-medium">jasa pembuatan website.</span>
+                <h2 class="tw-text-white tw-font-light 2xl:tw-text-2xl xl:tw-text-xl lg:tw-text-lg">Apa itu Jiwa Code</h2>
+                <h1 class="tw-text-white tw-font-medium 2xl:tw-text-4xl xl:tw-text-3xl lg:tw-text-2xl tw-mt-1">A Website Development Service</h1>
+                <p class="tw-text-white tw-font-light 2xl:tw-text-xl xl:tw-text-lg lg:tw-text-base tw-mt-6 tw-mb-8 tw-leading-normal"> Atau biasa disebut <span class="tw-font-medium">jasa pembuatan website.</span>
                     Kami mengedepankan pembuatan website dengan tampilan menarik, karena menurut hasil riset, desain web yang
                     baik akan membuat para penggunanya memorable dan susah berpaling. Karena sudah terbiasa dengan tampilan yang
                     ada sehingga membuat pengunjung tidak merasa keberatan menghabiskan waktunya untuk menjelajahi website.
                 </p>
 
-                <div class="tw-w-8/12 tw-mx-auto tw-flex tw-text-white tw-font-light tw-text-xl">
+                <div class="2xl:tw-w-8/12 xl:tw-w-11/12 2xl:tw-text-xl xl:tw-text-lg lg:tw-text-base tw-mx-auto tw-flex tw-text-white tw-font-light">
                     <div class="tw-w-6/12 ">
                         <ul class="tw-list-disc tw-leading-normal">
                             <li>Landing Page</li>
