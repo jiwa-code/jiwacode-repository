@@ -185,7 +185,7 @@
         <div class="tw-w-9/12 xl:tw-w-5/12 tw-pt-2 tw-mx-auto   ">
             <div class="tw-w-11/12 xl:tw-w-10/12 tw-mx-auto tw-text-black ">
             <h3 class="tw-text-2xl tw-font-medium xl:tw-text-2xl 2xl:tw-text-3xl tw-mt-2 xl:tw-mt-0">Kalkulator Perhitungan MR YearBook</h3>
-            <p class="tw-text-md tw-mt-5 lg:tw-text-lg xl:tw-text-base 2xl:tw-text-lg tw-my-auto ">Kalkulator Perhitungan MR Yearbook ini adalah sebuah sistem berbasis website yang memudahkan agar tidak perlu melakukan perhitungan secara manual. Hanya perlu menginputkan HPP, sistem akan merinci HPP yang di input dan sistem akan menampilkan Pendapatan Kotor sesuai HPP yang di input kan.</p>
+            <p class="tw-text-md tw-mt-5 lg:tw-text-lg xl:tw-text-base 2xl:tw-text-lg tw-my-auto ">Kalkulator Perhitungan MR Yearbook ini adalah sebuah <span class="tw-font-semibold">sistem berbasis website</span> yang memudahkan agar tidak perlu melakukan perhitungan secara manual. Hanya perlu menginputkan HPP, sistem akan merinci HPP yang di input dan sistem akan menampilkan Pendapatan Kotor sesuai HPP yang di input kan.</p>
         </div>
         </div>
     </div>
@@ -203,7 +203,7 @@
         <div class="tw-w-9/12 xl:tw-w-5/12 tw-pt-2 tw-mx-auto">
             <div class="tw-w-11/12 xl:tw-w-10/12 tw-mx-auto tw-text-black">
             <h3 class=" tw-text-2xl tw-font-medium xl:tw-text-2xl 2xl:tw-text-3xl tw-mt-2 xl:tw-mt-0">Landing Page Meca Studios</h3>
-            <p class="tw-text-md tw-mt-5 lg:tw-text-lg xl:tw-text-base 2xl:tw-text-lg">Website ini termasuk ke kategori Landing Page. terdiri dari 4 halaman terdiri dari “Beranda” untuk mengenalkan vendor dan juga layanan jasa yang di berikan, juga ada halaman “Meca Team” yaitu anggota tim di vendor tersebut, selanjutnya ada halaman “Our Works” yang isinya layaknya album foto, dan juga halaman “Kontak”.</p>
+            <p class="tw-text-md tw-mt-5 lg:tw-text-lg xl:tw-text-base 2xl:tw-text-lg">Website ini termasuk ke kategori <span class="tw-font-semibold">Landing Page. </span> terdiri dari 4 halaman terdiri dari “Beranda” untuk mengenalkan vendor dan juga layanan jasa yang di berikan, juga ada halaman “Meca Team” yaitu anggota tim di vendor tersebut, selanjutnya ada halaman “Our Works” yang isinya layaknya album foto, dan juga halaman “Kontak”.</p>
         </div>
         </div>
 
@@ -229,7 +229,7 @@
         <div class="tw-w-9/12 xl:tw-w-5/12 tw-pt-2 tw-mx-auto ">
             <div class="tw-w-11/12 xl:tw-w-10/12 tw-mx-auto tw-text-black">
             <h3 class=" tw-text-2xl tw-font-medium xl:tw-text-2xl 2xl:tw-text-3xl tw-mt-2 xl:tw-mt-0">Landing Page MR Yearbook</h3>
-            <p class="tw-text-md tw-mt-5 lg:tw-text-lg xl:tw-text-base 2xl:tw-text-lg">MR Yearbook adalah vendor yang bergerak di bidang buku tahunan dan juga selebrasi sekolah. Website ini termasuk ke kategori Landing Page. Terdiri dari halaman “tentang kami”, “kenapa harus memilih kami?”, dan “Visi dan Misi”.</p>
+            <p class="tw-text-md tw-mt-5 lg:tw-text-lg xl:tw-text-base 2xl:tw-text-lg">MR Yearbook adalah vendor yang bergerak di bidang buku tahunan dan juga selebrasi sekolah. Website ini termasuk ke kategori <span class="tw-font-semibold">Landing Page.</span> Terdiri dari halaman “tentang kami”, “kenapa harus memilih kami?”, dan “Visi dan Misi”.</p>
         </div>
         </div>
     </div>
